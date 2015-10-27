@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/Shortcut.jar" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/libs/gson-2.3.1.jar" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/libs/httpmime-4.3.jar" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/libs/jsoup-1.8.2.jar" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/libs/okhttp-2.3.0.jar" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/libs/okio-1.3.0.jar" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/GameThisMonth/DisplayGame.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/GameThisMonth/DisplayGameAdapter.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/GameThisMonth/DisplayGameProfile.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/GameThisMonth/GameItem.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/Module/Error_log.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/Module/HttpKeepAlive.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/Module/HttpLoader.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/Module/IpartDictionary.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/Module/IpartHttp.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/Module/IpartHttpResult.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/Module/KeepRequestNode.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/Module/RareFunction.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/Module/RequestData.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/Module/SSLSocketFactoryEx.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/Module/ThreadCenter.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/jclModule/CheckGoogleSupport.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/jclModule/CreateShortCut.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/jclModule/LoadBmp.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/jclModule/OkHttpLoader.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/jclModule/Tools.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chialung/jclprofile/jclModule/Tween.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/FormBodyPart.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/Header.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/HttpMultipart.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/HttpMultipartMode.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/MIME.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/MinimalField.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/MultipartEntity.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/content/AbstractContentBody.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/content/ByteArrayBody.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/content/ContentBody.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/content/ContentDescriptor.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/content/FileBody.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/content/InputStreamBody.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/content/StringBody.java" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/content/package.html" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/mime/package.html" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/display_game.xml" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/display_game_item.xml" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/display_game_profile.xml" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/display_game_sample_image_item.xml" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/display_game_widget.xml" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/display_game_widget_item.xml" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/default_month.jpg" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/header_background.png" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/header_background.png" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/header_background.png" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/header_background1.png" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/nowprinting200.jpg" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/preview.png" charset="x-windows-950" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
